@@ -1,5 +1,5 @@
 # VehicleCounting
-The main purpose of this project is to develop an adaptive model that can detect and count the real-time vehicle on urban roads using computer vision techniques.
+The main purpose of this project is to develop an adaptive model that can detect and count the real-time vehicle on urban roads using computer vision techniques.This model is also able to classify the vehicles into six different classes:  Car, Bus, Van, Truck, Motorcycle, and Autorickshaw.
 ## Requirements
   * Ubuntu 16.04
   * Cuda 9.0
